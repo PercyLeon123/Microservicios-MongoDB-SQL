@@ -1,4 +1,5 @@
 ﻿using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,8 +9,10 @@ namespace Servicios.api.Libreria.Core.Entities
 {
     public class Document : IDocument
     {
-        public ObjectId Id { get; set; }
+        [BsonId]
+        [BsonRepresentation(BsonType.ObjectId)]
+        public string Id { get; set; }
 
-        public DateTime CreateDate => Id.CreationTime;
+        public DateTime CreateDate => DateTime.Now;
     }
 }

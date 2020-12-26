@@ -10,8 +10,8 @@ namespace Servicios.api.Libreria.Core.Entities
     public interface IDocument
     {
         [BsonId]
-        [BsonRepresentation(BsonType.String)]
-        ObjectId Id { get; set; }
+        [BsonRepresentation(BsonType.ObjectId)]
+        string Id { get; set; }
         DateTime CreateDate { get; }
     }
 }

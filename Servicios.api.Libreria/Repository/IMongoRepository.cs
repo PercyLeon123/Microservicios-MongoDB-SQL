@@ -9,5 +9,13 @@ namespace Servicios.api.Libreria.Repository
     public interface IMongoRepository<TDocument> where TDocument : IDocument
     {
         Task<IEnumerable<TDocument>> GetAll();
+
+        Task<TDocument> GetBy(string Id);
+
+        Task InsertDocument(TDocument document);
+
+        Task UpdatetDocument(TDocument document);
+
+        Task DeleteByID(string Id);
     }
 }
