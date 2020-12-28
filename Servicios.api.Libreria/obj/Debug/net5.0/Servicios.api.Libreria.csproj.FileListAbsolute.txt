@@ -31,3 +31,36 @@ C:\Aplicaciones\net Core\Microservice\Microservices\Servicios.api.Libreria\obj\D
 C:\Aplicaciones\net Core\Microservice\Microservices\Servicios.api.Libreria\obj\Debug\net5.0\ref\Servicios.api.Libreria.dll
 C:\Aplicaciones\net Core\Microservice\Microservices\Servicios.api.Libreria\obj\Debug\net5.0\Servicios.api.Libreria.pdb
 C:\Aplicaciones\net Core\Microservice\Microservices\Servicios.api.Libreria\obj\Debug\net5.0\Servicios.api.Libreria.genruntimeconfig.cache
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\obj\Debug\net5.0\Servicios.api.Libreria.csprojAssemblyReference.cache
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\obj\Debug\net5.0\Servicios.api.Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\obj\Debug\net5.0\Servicios.api.Libreria.AssemblyInfoInputs.cache
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\obj\Debug\net5.0\Servicios.api.Libreria.AssemblyInfo.cs
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\obj\Debug\net5.0\Servicios.api.Libreria.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\obj\Debug\net5.0\Servicios.api.Libreria.MvcApplicationPartsAssemblyInfo.cache
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\obj\Debug\net5.0\Servicios.api.Libreria.dll
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\obj\Debug\net5.0\ref\Servicios.api.Libreria.dll
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\obj\Debug\net5.0\Servicios.api.Libreria.pdb
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\bin\Debug\net5.0\appsettings.Development.json
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\bin\Debug\net5.0\appsettings.json
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\bin\Debug\net5.0\Servicios.api.Libreria.exe
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\bin\Debug\net5.0\Servicios.api.Libreria.deps.json
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\bin\Debug\net5.0\Servicios.api.Libreria.runtimeconfig.json
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\bin\Debug\net5.0\Servicios.api.Libreria.runtimeconfig.dev.json
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\bin\Debug\net5.0\Servicios.api.Libreria.dll
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\bin\Debug\net5.0\ref\Servicios.api.Libreria.dll
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\bin\Debug\net5.0\Servicios.api.Libreria.pdb
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\bin\Debug\net5.0\DnsClient.dll
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\bin\Debug\net5.0\SharpCompress.dll
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\obj\Debug\net5.0\staticwebassets\Servicios.api.Libreria.StaticWebAssets.Manifest.cache
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\obj\Debug\net5.0\staticwebassets\Servicios.api.Libreria.StaticWebAssets.xml
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\obj\Debug\net5.0\scopedcss\bundle\Servicios.api.Libreria.styles.css
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\obj\Debug\net5.0\Servicios.api.Libreria.RazorTargetAssemblyInfo.cache
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\obj\Debug\net5.0\Servicios.api.Libreria.csproj.CopyComplete
+C:\Aplicaciones\BORRAR\Microservicios-MongoDB-SQL-master\Servicios.api.Libreria\obj\Debug\net5.0\Servicios.api.Libreria.genruntimeconfig.cache

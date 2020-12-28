@@ -13,5 +13,5 @@ namespace Servicios.api.Libreria.Core.Entities
         [BsonRepresentation(BsonType.ObjectId)]  /* Declaramos que es el Id de Mongo */
         string Id { get; set; }
         DateTime CreateDate { get; } /* Solo lectura */
-
+    }
 }
