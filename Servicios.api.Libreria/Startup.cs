@@ -37,8 +37,12 @@ namespace Servicios.api.Libreria
             );
 
             services.AddSingleton<MongoSettings>();
+<<<<<<< HEAD
 
             services.AddTransient<IAutorContext, AutorContext>(); //Crea una instancia por usuario su tiempo de vida es corto
+=======
+            services.AddTransient<IAutorContext, AutorContext>();//Crea una instancia por usuario su tiempo de vida es corto
+>>>>>>> bab830fca3d29e30815a6c4a1ad9f8a6965ff2de
             services.AddTransient<IAutorRepository, AutorRepository>();
             services.AddScoped(typeof(IMongoRepository<>), typeof(MongoRepository<>)); /*Inicia en el request y termina con el response*/
 

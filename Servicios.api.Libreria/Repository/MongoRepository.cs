@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 
 namespace Servicios.api.Libreria.Repository
 {
+<<<<<<< HEAD
     /* TDocument es una clase generica, esta clase generia debe ser de tipo IDocument */
     public class MongoRepository<TDocument> : IMongoRepository<TDocument> where TDocument : IDocument
     {
@@ -18,11 +19,23 @@ namespace Servicios.api.Libreria.Repository
         private readonly IMongoCollection<TDocument> _collection;
 
         /*Creamos la conexion con la DB e instanciamos nuestra coleccion */
+=======
+    /*TDocument es una clase genreica esta clase generia debe ser de tipo IDocument*/
+    public class MongoRepository<TDocument> : IMongoRepository<TDocument> where TDocument : IDocument
+    {
+        private readonly IMongoCollection<TDocument> _collection; /*aqui se guardara intancia a la coleccion de mongoDB */
+
+        /*Creamos la conexion con la DB e intanciamos nuestra coleccion */
+>>>>>>> bab830fca3d29e30815a6c4a1ad9f8a6965ff2de
         public MongoRepository(IOptions<MongoSettings> options) 
         {
             var client = new MongoClient(options.Value.ConnectionString);/*Creamos la conexion*/
             var _db = client.GetDatabase(options.Value.Database); /*instanciamos la DB*/
+<<<<<<< HEAD
             _collection = _db.GetCollection<TDocument>(GetCollectionName(typeof(TDocument)));/*instanciamos la coleccion*/
+=======
+            _collection = _db.GetCollection<TDocument>(GetCollectionName(typeof(TDocument))); /*instanciamos la coleccion*/
+>>>>>>> bab830fca3d29e30815a6c4a1ad9f8a6965ff2de
         }
 
         /*Este metodo obtendra el nombre de la clase  para poder relacionarlo con en MongoDB*/

@@ -7,7 +7,10 @@ using System.Threading.Tasks;
 
 namespace Servicios.api.Libreria.Repository
 {
+<<<<<<< HEAD
     /* Interface generica de tipo IDocument de del CRUD para la persistencia  */
+=======
+>>>>>>> bab830fca3d29e30815a6c4a1ad9f8a6965ff2de
     public interface IMongoRepository<TDocument> where TDocument : IDocument
     {
         Task<IEnumerable<TDocument>> GetAll();

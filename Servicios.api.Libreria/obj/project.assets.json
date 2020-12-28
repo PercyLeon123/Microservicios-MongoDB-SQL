@@ -4795,11 +4795,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\pleon\\Downloads\\Microservicios-MongoDB-SQL-master\\Servicios.api.Libreria\\Servicios.api.Libreria.csproj",
       "projectName": "Servicios.api.Libreria",
       "projectPath": "C:\\Users\\pleon\\Downloads\\Microservicios-MongoDB-SQL-master\\Servicios.api.Libreria\\Servicios.api.Libreria.csproj",
       "packagesPath": "C:\\Users\\pleon\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\pleon\\Downloads\\Microservicios-MongoDB-SQL-master\\Servicios.api.Libreria\\obj\\",
+=======
+      "projectUniqueName": "C:\\Aplicaciones\\net Core\\Microservice\\Microservices\\Servicios.api.Libreria\\Servicios.api.Libreria.csproj",
+      "projectName": "Servicios.api.Libreria",
+      "projectPath": "C:\\Aplicaciones\\net Core\\Microservice\\Microservices\\Servicios.api.Libreria\\Servicios.api.Libreria.csproj",
+      "packagesPath": "C:\\Users\\pleon\\.nuget\\packages\\",
+      "outputPath": "C:\\Aplicaciones\\net Core\\Microservice\\Microservices\\Servicios.api.Libreria\\obj\\",
+>>>>>>> bab830fca3d29e30815a6c4a1ad9f8a6965ff2de
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
