@@ -13,24 +13,16 @@ namespace Servicios.api.Libreria.Controllers
     [ApiController]
     public class LibreriaAutorController : ControllerBase
     {
-<<<<<<< HEAD
         /* Variable de solo lectura, se esta usando la clase generica para la persistencia de datos */
         private readonly IMongoRepository<AutorEntity> _autorGenericoRepository;
 
         /* Injeccion de dependencias, se esta instanciando MongoDB tabla */
-=======
-        private readonly IMongoRepository<AutorEntity> _autorGenericoRepository;
-
->>>>>>> bab830fca3d29e30815a6c4a1ad9f8a6965ff2de
         public LibreriaAutorController(IMongoRepository<AutorEntity> autorGenericoRepository) 
         {
             _autorGenericoRepository = autorGenericoRepository;
         }
 
-<<<<<<< HEAD
         /* Utilizamos la instancia para usar los metodos ya definidos en nuestra clase generica */
-=======
->>>>>>> bab830fca3d29e30815a6c4a1ad9f8a6965ff2de
 
         [HttpGet]
         public async Task<ActionResult<IEnumerable<AutorEntity>>> Get() 

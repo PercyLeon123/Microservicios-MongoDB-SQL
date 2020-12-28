@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "f83x7GgACL6y3Z1HQwDkL6+/f5VNyQNLYj7E5QkqizgYm/QncNJdhVV0F+UKzRjuYx1d+W1l8vXpyboMT0s1dg==",
+  "dgSpecHash": "UF4tywXN/oOx1Z9gIkFSNv49uW8AaZEbjmYB+8CyMfhrKQ1P3gGXoAUEgzYXlPzGCNwIWs/9HNcJaMQVsovOKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pleon\\Downloads\\Microservicios-MongoDB-SQL-master\\Servicios.api.Libreria\\Servicios.api.Libreria.csproj",
-=======
-  "dgSpecHash": "tJstS4v8AawE8VjuoSxbPKcl+8uM8haLGM1wjAXPJzM8ijZrsW6XU6kM6zlOyHpeTgUZG9AxKViJBVXBZYcScA==",
-  "success": true,
-  "projectFilePath": "C:\\Aplicaciones\\net Core\\Microservice\\Microservices\\Servicios.api.Libreria\\Servicios.api.Libreria.csproj",
->>>>>>> bab830fca3d29e30815a6c4a1ad9f8a6965ff2de
+  "projectFilePath": "C:\\Aplicaciones\\BORRAR\\Microservicios-MongoDB-SQL-master\\Servicios.api.Libreria\\Servicios.api.Libreria.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pleon\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
     "C:\\Users\\pleon\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
@@ -92,5 +86,12 @@
     "C:\\Users\\pleon\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\pleon\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Aplicaciones\\BORRAR\\Microservicios-MongoDB-SQL-master\\Servicios.api.Libreria\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
