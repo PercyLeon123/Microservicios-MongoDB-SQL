@@ -28,7 +28,7 @@ namespace Servicios.api.Libreria.Repository
 
         }
 
-        /*Este metodo obtendra el nombre de la clase  para poder relacionarlo con en MongoDB*/
+        /* Este metodo obtendra el nombre de la clase  para poder relacionarlo con en MongoDB */
         private protected string GetCollectionName(Type documentType) 
         {
             return ((BsonCollectionAttribute)documentType
